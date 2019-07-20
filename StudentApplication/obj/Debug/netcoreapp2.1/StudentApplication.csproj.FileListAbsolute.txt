@@ -1,0 +1,14 @@
+C:\Users\skamban\Documents\Personal Projects\StudentApplication\StudentApplication\bin\Debug\netcoreapp2.1\StudentApplication.deps.json
+C:\Users\skamban\Documents\Personal Projects\StudentApplication\StudentApplication\bin\Debug\netcoreapp2.1\StudentApplication.runtimeconfig.json
+C:\Users\skamban\Documents\Personal Projects\StudentApplication\StudentApplication\bin\Debug\netcoreapp2.1\StudentApplication.runtimeconfig.dev.json
+C:\Users\skamban\Documents\Personal Projects\StudentApplication\StudentApplication\bin\Debug\netcoreapp2.1\StudentApplication.dll
+C:\Users\skamban\Documents\Personal Projects\StudentApplication\StudentApplication\bin\Debug\netcoreapp2.1\StudentApplication.pdb
+C:\Users\skamban\Documents\Personal Projects\StudentApplication\StudentApplication\obj\Debug\netcoreapp2.1\StudentApplication.csprojAssemblyReference.cache
+C:\Users\skamban\Documents\Personal Projects\StudentApplication\StudentApplication\obj\Debug\netcoreapp2.1\StudentApplication.csproj.CoreCompileInputs.cache
+C:\Users\skamban\Documents\Personal Projects\StudentApplication\StudentApplication\obj\Debug\netcoreapp2.1\StudentApplication.RazorAssemblyInfo.cache
+C:\Users\skamban\Documents\Personal Projects\StudentApplication\StudentApplication\obj\Debug\netcoreapp2.1\StudentApplication.RazorAssemblyInfo.cs
+C:\Users\skamban\Documents\Personal Projects\StudentApplication\StudentApplication\obj\Debug\netcoreapp2.1\StudentApplication.AssemblyInfoInputs.cache
+C:\Users\skamban\Documents\Personal Projects\StudentApplication\StudentApplication\obj\Debug\netcoreapp2.1\StudentApplication.AssemblyInfo.cs
+C:\Users\skamban\Documents\Personal Projects\StudentApplication\StudentApplication\obj\Debug\netcoreapp2.1\StudentApplication.RazorTargetAssemblyInfo.cache
+C:\Users\skamban\Documents\Personal Projects\StudentApplication\StudentApplication\obj\Debug\netcoreapp2.1\StudentApplication.dll
+C:\Users\skamban\Documents\Personal Projects\StudentApplication\StudentApplication\obj\Debug\netcoreapp2.1\StudentApplication.pdb
